@@ -1,6 +1,6 @@
 # Schema Studio — Learn Dimensional Modelling by Building It
 
-**Live app:** https://shauryadevhub.github.io/schema-studio/
+**Live app:** https://shauryadevhub.github.io/data-modeling-with-coach/
 
 Schema Studio is a hands-on, browser-based tool for learning Kimball-style dimensional data modelling — not by reading about star schemas, but by building them. You drag real tables onto a canvas, decide what's a fact and what's a dimension, and get a scored, explained review of your design.
 
