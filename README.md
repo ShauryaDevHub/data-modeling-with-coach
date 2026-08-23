@@ -29,16 +29,6 @@ Most data modelling tutorials are static: diagrams and prose explaining what a s
 
 **Custom table builder** — define your own fact and dimension tables with columns, types, and keys to practice beyond the scripted scenarios. Progress saves locally in your browser.
 
-## Screenshots
-
-![Home screen](screenshots/01-hero.png)
-
-![Kimball's four-step design process](screenshots/02-concepts.png)
-
-![Building the retail sales star schema](screenshots/03-builder.png)
-
-![Check my schema — score, verdicts, and coach's review](screenshots/04-check-schema.png)
-
 ## Tech
 
 A single self-contained `index.html` — no build step, no server, no dependencies, no account. Scoring is rule-based and runs locally, so the tool works fully offline.
